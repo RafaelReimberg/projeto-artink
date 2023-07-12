@@ -98,7 +98,7 @@ img{
     align-items: center;
 }
 
-.titulo > h1{
+.titulo h1{
     display: block;
     align-items: center;
     font-family: var(--fonte-principal);
@@ -108,7 +108,7 @@ img{
     text-align: right;
 }
 
-.titulo > h2{
+.titulo h2{
     display: block;
     align-items: center;
     font-size: 1.7rem;
@@ -188,8 +188,9 @@ main{
 
 .quem-somos h2{
     font-family: var(--fonte-secundaria);
-    font-size: 1.8rem;
+    font-size: 1.9rem;
     text-shadow: 0 3px 10px var(--cor4);
+    padding-top: 30px;
 }
 
 .galeria{
@@ -202,6 +203,7 @@ main{
     font-family: var(--fonte-secundaria);
     font-size: 1.8rem;
     text-shadow: 0 3px 10px var(--cor4);
+    padding-top: 30px;
 }
 
 
